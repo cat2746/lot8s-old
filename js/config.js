@@ -11,10 +11,10 @@ automatictransition = "true"
 
 var timezone = "America/Chicago"
 // Location Configuration
- var lat = "30.4213199" // Latitude. You can head over to www.google.com/maps/ and right click on a spot on the map for your cordinates.
- var lon = "-87.217067" // Longitude.
+ var lat = "45.550789" // Latitude. You can head over to www.google.com/maps/ and right click on a spot on the map for your cordinates.
+ var lon = "-122.505737" // Longitude.
  // Icon Configuration
- var icons = "2007"; // Types are 2007, 2010, and XL
+ var icons = "2010"; // Types are 2007, 2010, and XL
  var filet = `gif` // gif or png. No period included
 
  // Backgrounds
@@ -24,13 +24,13 @@ var timezone = "America/Chicago"
 // If your icons is 2007, change to gif.
 // If your icons is 2010, change to png.
 // No period before the file type. Otherwise it gives it out as 26..png/gif
-var locationn =  "Pensacola" // Your Location. Leave Blank for autolocation.
-var forecastlocation = `Pensacola Metro` // The Location that appears on the forecast. You can do ${locationn} for the city name above
-var almanacstationname = "Pensacola International" /* The Name that appears on the Almanac Slide. Leave blank if 
+var locationn =  "Portland" // Your Location. Leave Blank for autolocation.
+var forecastlocation = `Greater Portland Metro` // The Location that appears on the forecast. You can do ${locationn} for the city name above
+var almanacstationname = "Portland International" /* The Name that appears on the Almanac Slide. Leave blank if 
 you want to automatically set the name of the station */
 var units = "e" // The displayed. e is imperial, m is metric, h is hybrid, s is (the) kelvin. Default is e.
 // This is the message that aUnits ppears on the LDL Bar.
-var marquee_message = "As Requested by Halloween20 on GitHub, the location has been set to Pensacola, Florida! "
+var marquee_message = "ew fernty bell winds "
 
 // The Music Configuration was Removed on March 4th 2024.
 
